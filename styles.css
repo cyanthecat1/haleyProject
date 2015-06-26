@@ -1,0 +1,14 @@
+body {
+	background-color:#5BA0CF;
+}
+p {
+	color:white;
+	
+}
+p#yolo {
+	color:orange;
+}
+
+p.egg{
+	color:yellow;
+}
